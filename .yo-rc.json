@@ -1,0 +1,22 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "",
+      "authorEmail": "",
+      "authorUrl": ""
+    }
+  },
+  "donejs-electron": {
+    "main": "electron-main.js",
+    "platforms": [
+      "darwin",
+      "win32",
+      "linux"
+    ],
+    "archs": [
+      "ia32",
+      "x64"
+    ],
+    "baseURL": ""
+  }
+}
