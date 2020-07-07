@@ -70,7 +70,7 @@
   "devDependencies": {
     "can-fixture": "^1.0.13",
     "donejs-cli": "^1.0.0",
-    "electron": "^1.6.7",
+    "electron": "^9.1.0",
     "funcunit": "^3.2.0",
     "steal-electron": "^1.1.1",
     "steal-qunit": "^1.0.1",
